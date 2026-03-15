@@ -1,0 +1,13 @@
+app:
+  mode: simulated
+  update_ms: 120
+processing:
+  baseline_alpha: 0.96
+  noise_cutoff_hz: 4.0
+  event_energy_threshold: 0.2
+  event_motion_threshold: 0.15
+fusion:
+  occupancy_threshold: 0.5
+recording:
+  enabled: false
+  path: data/recordings/session.jsonl

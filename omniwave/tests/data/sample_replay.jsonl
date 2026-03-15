@@ -1,0 +1,2 @@
+{"timestamp":"2026-01-01T00:00:00","sensor_type":"simulated","sample_rate":10,"channels":1,"bins":4,"data":[[0.1,0.2,0.3,0.4]],"metadata":{"tick":0}}
+{"timestamp":"2026-01-01T00:00:01","sensor_type":"simulated","sample_rate":10,"channels":1,"bins":4,"data":[[0.3,0.2,0.1,0.2]],"metadata":{"tick":1}}
